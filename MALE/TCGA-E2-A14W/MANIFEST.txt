@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+6ec1d9a1-6c71-481c-ae53-a09c1c895029	6ec1d9a1-6c71-481c-ae53-a09c1c895029/fcdaa827-e263-46e0-8a83-206fa5a009ba.htseq.counts.gz	6fd9bfb7576056b35d967c6e601c218f	249545	validated
